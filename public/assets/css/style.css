@@ -2,34 +2,188 @@ body {
   font-family: 'Roboto', sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #f0f0f0;
+  background: url('../img/JUICEWRLD.png') no-repeat center center fixed;
+  color: #fff;
   text-align: center;
 }
+
+main {
+  background: rgba(26, 26, 26, 0.8); /* Fondo oscuro semi-transparente */
+  backdrop-filter: blur(5px); /* Desenfoque */
+  min-height: 100vh;
+  padding: 1rem;
+}
+
 header {
   padding: 1rem;
-  background-color: #333;
-  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  background: none; /* Sin fondo morado */
+  background: rgba(26, 26, 26, 0.8); /* Fondo oscuro semi-transparente */
+  backdrop-filter: blur(5px); /* Desenfoque */
+
 }
-#game-grid {
-  display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  gap: 5px;
-  max-width: 800px;
-  margin: 1rem auto;
+.header-logo {
+  max-width: 300px;
+  height: auto;
 }
-.cell {
-  padding: 10px;
-  border: 1px solid #ccc;
-  background-color: white;
+.header-buttons {
+  position: absolute;
+  right: 1rem;
+  top: 50%;
+  transform: translateY(-50%);
+  display: flex;
+  gap: 10px;
 }
-.correct { background-color: #6aaa64; color: white; }
-.close { background-color: #c9b458; color: white; }
+.header-buttons button {
+  background: none;
+  border: none;
+  color: #9b59b6;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+@media (max-width: 600px) {
+  .header-logo {
+    max-width: 200px;
+  }
+  .header-buttons button {
+    font-size: 1.2rem;
+  }
+}
+
 #guess-input {
   width: 80%;
   max-width: 400px;
   padding: 0.5rem;
   margin: 1rem 0;
+  border: 2px solid #9b59b6;
+  border-radius: 5px;
+  background-color: #333;
+  color: #fff;
+}
+#game-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 5px;
+  max-width: 900px;
+  margin: 1rem auto;
+  background: rgba(51, 51, 51, 0.9);
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+.header-cell {
+  background-color: #2c1a4d;
+  padding: 12px;
+  font-weight: bold;
+  border-radius: 5px;
+  border: 1px solid #9b59b6;
+  text-transform: uppercase;
+  font-size: 0.9rem;
+}
+.row {
+  display: contents;
+}
+.cell {
+  padding: 12px;
+  border: 1px solid #9b59b6;
+  background-color: #333;
+  border-radius: 5px;
+  transition: transform 0.2s, background-color 0.3s;
+}
+.cell.correct {
+  background-color: #9b59b6;
+  color: #fff;
+  transform: scale(1.05);
+}
+.cell.close {
+  background-color: #e67e22;
+  color: #fff;
+  transform: scale(1.05);
 }
 @media (max-width: 600px) {
-  #game-grid { font-size: 0.8rem; }
+  #game-grid {
+    font-size: 0.7rem;
+    gap: 3px;
+    max-width: 100%;
+    padding: 5px;
+  }
+  .header-cell, .cell {
+    padding: 8px;
+  }
+}
+#share-btn {
+  padding: 0.5rem 1rem;
+  background-color: #9b59b6;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 1rem;
+}
+#share-btn:disabled {
+  background-color: #555;
+  cursor: not-allowed;
+}
+
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+.modal-content {
+  background-color: #333;
+  padding: 20px;
+  border-radius: 5px;
+  max-width: 500px;
+  width: 80%;
+  color: #fff;
+}
+.close {
+  float: right;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+.suggestions {
+  position: absolute;
+  background-color: #333;
+  border: 1px solid #9b59b6;
+  max-width: 400px;
+  width: 80%;
+  max-height: 200px;
+  overflow-y: auto;
+  z-index: 100;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+}
+.suggestion-item {
+  padding: 10px;
+  cursor: pointer;
+  color: #fff;
+}
+.suggestion-item:hover {
+  background-color: #9b59b6;
+}
+
+@media (max-width: 600px) {
+  #game-grid {
+    font-size: 0.8rem;
+    gap: 2px;
+  }
+  .cell, .header-cell {
+    padding: 5px;
+  }
+  h1 {
+    font-size: 1.5rem;
+  }
 }

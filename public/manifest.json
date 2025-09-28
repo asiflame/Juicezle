@@ -1,10 +1,11 @@
 {
+  "id": "/",
   "name": "Juicezle",
   "short_name": "Juicezle",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#f0f0f0",
-  "theme_color": "#333",
+  "background_color": "#1a1a1a",
+  "theme_color": "#2c1a4d",
   "icons": [
     {
       "src": "assets/img/logo.png",

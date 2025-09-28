@@ -9,29 +9,59 @@
   <link rel="manifest" href="manifest.json">
   <link rel="icon" href="favicon.ico">
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-  <!-- AMP support (opcional, como Yeezle) -->
   <script async src="https://cdn.ampproject.org/v0.js"></script>
-  <!-- Google Analytics (como Yeezle) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-XXXXX-Y"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'UA-XXXXX-Y'); // Reemplaza con tu ID
-  </script>
 </head>
 <body>
   <header>
-    <h1>Juicezle</h1>
+  <img src="assets/img/LOGO.png" alt="Juicezle Logo" class="header-logo">
+  <div class="header-buttons">
     <button id="help-btn">?</button>
     <button id="stats-btn">📊</button>
-  </header>
-  <main>
-    <input type="text" id="guess-input" list="songs" placeholder="Guess a song...">
-    <datalist id="songs"></datalist>
-    <div id="game-grid"></div>
-    <button id="share-btn" disabled>Share</button>
-  </main>
+  </div>
+</header>
+<main>
+  <input type="text" id="guess-input" placeholder="Guess a Juice WRLD song..." autocomplete="off">
+  <div id="autocomplete-suggestions" class="suggestions"></div>
+  <div id="game-grid">
+    <div class="header-cell">Song</div>
+    <div class="header-cell">Album</div>
+    <div class="header-cell">Track #</div>
+    <div class="header-cell">Duration</div>
+    <div class="header-cell">Features</div>
+  </div>
+  <button id="share-btn" disabled>Share</button>
+  <div id="help-modal" class="modal" style="display: none;">
+    <div class="modal-content">
+      <span id="close-help" class="close">&times;</span>
+      <h2>How to Play Juicezle</h2>
+      <p>Guess the Juice WRLD song of the day in up to 8 tries!</p>
+      <ul>
+        <li>Type a song title to guess.</li>
+        <li><span class="correct">Purple</span> means the field is correct.</li>
+        <li><span class="close">Orange</span> means the field is close:
+          <ul>
+            <li>Track #: Within ±2 (↑/↓ shows direction).</li>
+            <li>Duration: Within ±30 seconds (↑/↓ shows direction).</li>
+            <li>Features: At least one artist matches.</li>
+          </ul>
+        </li>
+        <li>White means incorrect.</li>
+        <li>Share your score after winning or losing!</li>
+      </ul>
+    </div>
+  </div>
+
+  <div id="stats-modal" class="modal" style="display: none;">
+  <div class="modal-content">
+    <span id="close-stats" class="close">&times;</span>
+    <h2>Your Stats</h2>
+    <p>Games Played: <span id="games-played">0</span></p>
+    <p>Wins: <span id="wins">0</span></p>
+    <p>Current Streak: <span id="streak">0</span></p>
+    <p>Max Streak: <span id="max-streak">0</span></p>
+  </div>
+</div>
+</main>
   <script src="assets/js/main.js"></script>
 </body>
 </html>
