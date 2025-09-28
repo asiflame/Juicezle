@@ -1,0 +1,12 @@
+{
+  "name": "juicezle",
+  "version": "1.0.0",
+  "description": "Daily Juice WRLD song guessing game",
+  "scripts": {
+    "start": "npx serve public",
+    "deploy": "netlify deploy --prod --dir=public"
+  },
+  "devDependencies": {
+    "serve": "^14.2.5"
+  }
+}

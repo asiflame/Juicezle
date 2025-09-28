@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Guess a Juice WRLD song each day!">
+  <title>Juicezle</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="favicon.ico">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <!-- AMP support (opcional, como Yeezle) -->
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  <!-- Google Analytics (como Yeezle) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-XXXXX-Y"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-XXXXX-Y'); // Reemplaza con tu ID
+  </script>
+</head>
+<body>
+  <header>
+    <h1>Juicezle</h1>
+    <button id="help-btn">?</button>
+    <button id="stats-btn">📊</button>
+  </header>
+  <main>
+    <input type="text" id="guess-input" list="songs" placeholder="Guess a song...">
+    <datalist id="songs"></datalist>
+    <div id="game-grid"></div>
+    <button id="share-btn" disabled>Share</button>
+  </main>
+  <script src="assets/js/main.js"></script>
+</body>
+</html>

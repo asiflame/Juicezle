@@ -1,0 +1,842 @@
+[
+  {
+    "title": "Intro",
+    "album": "Goodbye & Good Riddance",
+    "trackNumber": 1,
+    "duration": "1:14",
+    "features": []
+  },
+  {
+    "title": "All Girls Are the Same",
+    "album": "Goodbye & Good Riddance",
+    "trackNumber": 2,
+    "duration": "2:45",
+    "features": []
+  },
+  {
+    "title": "Lucid Dreams",
+    "album": "Goodbye & Good Riddance",
+    "trackNumber": 3,
+    "duration": "3:59",
+    "features": []
+  },
+  {
+    "title": "Lean Wit Me",
+    "album": "Goodbye & Good Riddance",
+    "trackNumber": 4,
+    "duration": "2:55",
+    "features": []
+  },
+  {
+    "title": "Wasted",
+    "album": "Goodbye & Good Riddance",
+    "trackNumber": 5,
+    "duration": "4:21",
+    "features": ["Lil Uzi Vert"]
+  },
+  {
+    "title": "I'm Still",
+    "album": "Goodbye & Good Riddance",
+    "trackNumber": 6,
+    "duration": "3:12",
+    "features": []
+  },
+  {
+    "title": "Betrayal Skit",
+    "album": "Goodbye & Good Riddance",
+    "trackNumber": 7,
+    "duration": "1:04",
+    "features": []
+  },
+  {
+    "title": "Candles",
+    "album": "Goodbye & Good Riddance",
+    "trackNumber": 8,
+    "duration": "3:03",
+    "features": []
+  },
+  {
+    "title": "Scared of Love",
+    "album": "Goodbye & Good Riddance",
+    "trackNumber": 9,
+    "duration": "2:50",
+    "features": []
+  },
+  {
+    "title": "Used To",
+    "album": "Goodbye & Good Riddance",
+    "trackNumber": 10,
+    "duration": "2:56",
+    "features": []
+  },
+  {
+    "title": "Karma Skit",
+    "album": "Goodbye & Good Riddance",
+    "trackNumber": 11,
+    "duration": "1:14",
+    "features": []
+  },
+  {
+    "title": "Hurt Me",
+    "album": "Goodbye & Good Riddance",
+    "trackNumber": 12,
+    "duration": "2:02",
+    "features": []
+  },
+  {
+    "title": "Black & White",
+    "album": "Goodbye & Good Riddance",
+    "trackNumber": 13,
+    "duration": "3:06",
+    "features": []
+  },
+  {
+    "title": "Long Gone",
+    "album": "Goodbye & Good Riddance",
+    "trackNumber": 14,
+    "duration": "3:07",
+    "features": []
+  },
+  {
+    "title": "End of the Road",
+    "album": "Goodbye & Good Riddance",
+    "trackNumber": 15,
+    "duration": "2:42",
+    "features": []
+  },
+  {
+    "title": "I'll Be Fine",
+    "album": "Goodbye & Good Riddance",
+    "trackNumber": 16,
+    "duration": "4:04",
+    "features": []
+  },
+  {
+    "title": "Empty",
+    "album": "Death Race for Love",
+    "trackNumber": 1,
+    "duration": "4:08",
+    "features": []
+  },
+  {
+    "title": "Maze",
+    "album": "Death Race for Love",
+    "trackNumber": 2,
+    "duration": "2:24",
+    "features": []
+  },
+  {
+    "title": "HeMotions",
+    "album": "Death Race for Love",
+    "trackNumber": 3,
+    "duration": "3:07",
+    "features": []
+  },
+  {
+    "title": "Demonz (Interlude)",
+    "album": "Death Race for Love",
+    "trackNumber": 4,
+    "duration": "1:35",
+    "features": ["Brent Faiyaz"]
+  },
+  {
+    "title": "Fast",
+    "album": "Death Race for Love",
+    "trackNumber": 5,
+    "duration": "3:28",
+    "features": []
+  },
+  {
+    "title": "Hear Me Calling",
+    "album": "Death Race for Love",
+    "trackNumber": 6,
+    "duration": "3:09",
+    "features": []
+  },
+  {
+    "title": "Big",
+    "album": "Death Race for Love",
+    "trackNumber": 7,
+    "duration": "3:44",
+    "features": []
+  },
+  {
+    "title": "Robbery",
+    "album": "Death Race for Love",
+    "trackNumber": 8,
+    "duration": "4:00",
+    "features": []
+  },
+  {
+    "title": "Flaws and Sins",
+    "album": "Death Race for Love",
+    "trackNumber": 9,
+    "duration": "3:38",
+    "features": []
+  },
+  {
+    "title": "Feeling",
+    "album": "Death Race for Love",
+    "trackNumber": 10,
+    "duration": "3:21",
+    "features": []
+  },
+  {
+    "title": "Syphilis",
+    "album": "Death Race for Love",
+    "trackNumber": 11,
+    "duration": "2:11",
+    "features": []
+  },
+  {
+    "title": "Who Shot Cupid?",
+    "album": "Death Race for Love",
+    "trackNumber": 12,
+    "duration": "3:34",
+    "features": []
+  },
+  {
+    "title": "Ring Ring",
+    "album": "Death Race for Love",
+    "trackNumber": 13,
+    "duration": "2:51",
+    "features": ["Clever"]
+  },
+  {
+    "title": "Desire",
+    "album": "Death Race for Love",
+    "trackNumber": 14,
+    "duration": "3:09",
+    "features": []
+  },
+  {
+    "title": "Out My Way",
+    "album": "Death Race for Love",
+    "trackNumber": 15,
+    "duration": "2:36",
+    "features": []
+  },
+  {
+    "title": "The Bees Knees",
+    "album": "Death Race for Love",
+    "trackNumber": 16,
+    "duration": "5:25",
+    "features": []
+  },
+  {
+    "title": "ON GOD",
+    "album": "Death Race for Love",
+    "trackNumber": 17,
+    "duration": "4:10",
+    "features": ["Young Thug"]
+  },
+  {
+    "title": "10 Feet",
+    "album": "Death Race for Love",
+    "trackNumber": 18,
+    "duration": "3:32",
+    "features": []
+  },
+  {
+    "title": "Won’t Let Go",
+    "album": "Death Race for Love",
+    "trackNumber": 19,
+    "duration": "3:20",
+    "features": []
+  },
+  {
+    "title": "She’s The One",
+    "album": "Death Race for Love",
+    "trackNumber": 20,
+    "duration": "3:08",
+    "features": []
+  },
+  {
+    "title": "Rider",
+    "album": "Death Race for Love",
+    "trackNumber": 21,
+    "duration": "3:12",
+    "features": []
+  },
+  {
+    "title": "Make Believe",
+    "album": "Death Race for Love",
+    "trackNumber": 22,
+    "duration": "2:22",
+    "features": []
+  },
+  {
+    "title": "Bandit",
+    "album": "Death Race for Love",
+    "trackNumber": 23,
+    "duration": "3:09",
+    "features": ["YoungBoy Never Broke Again"]
+  },
+  {
+    "title": "Anxiety (Intro)",
+    "album": "Legends Never Die",
+    "trackNumber": 1,
+    "duration": "1:10",
+    "features": []
+  },
+  {
+    "title": "Conversations",
+    "album": "Legends Never Die",
+    "trackNumber": 2,
+    "duration": "3:01",
+    "features": []
+  },
+  {
+    "title": "Titanic",
+    "album": "Legends Never Die",
+    "trackNumber": 3,
+    "duration": "2:56",
+    "features": []
+  },
+  {
+    "title": "Bad Energy",
+    "album": "Legends Never Die",
+    "trackNumber": 4,
+    "duration": "3:06",
+    "features": []
+  },
+  {
+    "title": "Righteous",
+    "album": "Legends Never Die",
+    "trackNumber": 5,
+    "duration": "4:02",
+    "features": []
+  },
+  {
+    "title": "Blood on My Jeans",
+    "album": "Legends Never Die",
+    "trackNumber": 6,
+    "duration": "2:34",
+    "features": []
+  },
+  {
+    "title": "Tell Me U Luv Me",
+    "album": "Legends Never Die",
+    "trackNumber": 7,
+    "duration": "3:00",
+    "features": ["Trippie Redd"]
+  },
+  {
+    "title": "Hate the Other Side",
+    "album": "Legends Never Die",
+    "trackNumber": 8,
+    "duration": "2:40",
+    "features": ["Polo G", "The Kid LAROI"]
+  },
+  {
+    "title": "Get Through It (Interlude)",
+    "album": "Legends Never Die",
+    "trackNumber": 9,
+    "duration": "0:20",
+    "features": []
+  },
+  {
+    "title": "Life’s a Mess",
+    "album": "Legends Never Die",
+    "trackNumber": 10,
+    "duration": "3:22",
+    "features": ["Halsey"]
+  },
+  {
+    "title": "Come & Go",
+    "album": "Legends Never Die",
+    "trackNumber": 11,
+    "duration": "3:25",
+    "features": ["Marshmello"]
+  },
+  {
+    "title": "I Want It",
+    "album": "Legends Never Die",
+    "trackNumber": 12,
+    "duration": "2:53",
+    "features": []
+  },
+  {
+    "title": "Fighting Demons",
+    "album": "Legends Never Die",
+    "trackNumber": 13,
+    "duration": "3:20",
+    "features": []
+  },
+  {
+    "title": "Wishing Well",
+    "album": "Legends Never Die",
+    "trackNumber": 14,
+    "duration": "3:14",
+    "features": []
+  },
+  {
+    "title": "Screw Juice",
+    "album": "Legends Never Die",
+    "trackNumber": 15,
+    "duration": "2:59",
+    "features": []
+  },
+  {
+    "title": "Up Up and Away",
+    "album": "Legends Never Die",
+    "trackNumber": 16,
+    "duration": "2:27",
+    "features": []
+  },
+  {
+    "title": "The Man, The Myth, The Legend (Interlude)",
+    "album": "Legends Never Die",
+    "trackNumber": 17,
+    "duration": "2:16",
+    "features": []
+  },
+  {
+    "title": "Stay High",
+    "album": "Legends Never Die",
+    "trackNumber": 18,
+    "duration": "2:48",
+    "features": []
+  },
+  {
+    "title": "Can’t Die",
+    "album": "Legends Never Die",
+    "trackNumber": 19,
+    "duration": "3:02",
+    "features": []
+  },
+  {
+    "title": "Man of the Year",
+    "album": "Legends Never Die",
+    "trackNumber": 20,
+    "duration": "2:16",
+    "features": []
+  },
+  {
+    "title": "Juice WRLD Speaks from Heaven (Outro)",
+    "album": "Legends Never Die",
+    "trackNumber": 21,
+    "duration": "0:30",
+    "features": []
+  },
+  {
+    "title": "Burn",
+    "album": "Fighting Demons",
+    "trackNumber": 1,
+    "duration": "3:37",
+    "features": []
+  },
+  {
+    "title": "Already Dead",
+    "album": "Fighting Demons",
+    "trackNumber": 2,
+    "duration": "3:51",
+    "features": []
+  },
+  {
+    "title": "You Wouldn’t Understand",
+    "album": "Fighting Demons",
+    "trackNumber": 3,
+    "duration": "2:50",
+    "features": []
+  },
+  {
+    "title": "Wandered to LA",
+    "album": "Fighting Demons",
+    "trackNumber": 4,
+    "duration": "3:08",
+    "features": ["Justin Bieber"]
+  },
+  {
+    "title": "Eminem Speaks",
+    "album": "Fighting Demons",
+    "trackNumber": 5,
+    "duration": "2:13",
+    "features": []
+  },
+  {
+    "title": "Rockstar In His Prime",
+    "album": "Fighting Demons",
+    "trackNumber": 6,
+    "duration": "3:00",
+    "features": []
+  },
+  {
+    "title": "Doom",
+    "album": "Fighting Demons",
+    "trackNumber": 7,
+    "duration": "3:37",
+    "features": []
+  },
+  {
+    "title": "Go Hard",
+    "album": "Fighting Demons",
+    "trackNumber": 8,
+    "duration": "2:14",
+    "features": []
+  },
+  {
+    "title": "Juice WRLD Speaks",
+    "album": "Fighting Demons",
+    "trackNumber": 9,
+    "duration": "1:29",
+    "features": []
+  },
+  {
+    "title": "Not Enough",
+    "album": "Fighting Demons",
+    "trackNumber": 10,
+    "duration": "2:51",
+    "features": []
+  },
+  {
+    "title": "Feline",
+    "album": "Fighting Demons",
+    "trackNumber": 11,
+    "duration": "3:32",
+    "features": ["Polo G", "Trippie Redd"]
+  },
+  {
+    "title": "Relocate",
+    "album": "Fighting Demons",
+    "trackNumber": 12,
+    "duration": "3:28",
+    "features": []
+  },
+  {
+    "title": "Juice WRLD Speaks 2",
+    "album": "Fighting Demons",
+    "trackNumber": 13,
+    "duration": "3:10",
+    "features": []
+  },
+  {
+    "title": "Until The Plug Comes Back Around",
+    "album": "Fighting Demons",
+    "trackNumber": 14,
+    "duration": "2:53",
+    "features": []
+  },
+  {
+    "title": "From My Window",
+    "album": "Fighting Demons",
+    "trackNumber": 15,
+    "duration": "3:07",
+    "features": []
+  },
+  {
+    "title": "Girl Of My Dreams",
+    "album": "Fighting Demons",
+    "trackNumber": 16,
+    "duration": "3:46",
+    "features": ["SUGA of BTS"]
+  },
+  {
+    "title": "Feel Alone",
+    "album": "Fighting Demons",
+    "trackNumber": 17,
+    "duration": "3:50",
+    "features": []
+  },
+  {
+    "title": "My Life In A Nutshell",
+    "album": "Fighting Demons",
+    "trackNumber": 18,
+    "duration": "3:08",
+    "features": []
+  },
+  {
+    "title": "The Party Never Ends",
+    "album": "The Party Never Ends",
+    "trackNumber": 1,
+    "duration": "2:20",
+    "features": []
+  },
+  {
+    "title": "Misfit",
+    "album": "The Party Never Ends",
+    "trackNumber": 2,
+    "duration": "2:39",
+    "features": []
+  },
+  {
+    "title": "AGATS2 (Insecure)",
+    "album": "The Party Never Ends",
+    "trackNumber": 3,
+    "duration": "3:19",
+    "features": ["Nicki Minaj"]
+  },
+  {
+    "title": "Lace It",
+    "album": "The Party Never Ends",
+    "trackNumber": 4,
+    "duration": "3:37",
+    "features": ["Eminem", "Benny Blanco"]
+  },
+  {
+    "title": "Cuffed",
+    "album": "The Party Never Ends",
+    "trackNumber": 5,
+    "duration": "4:04",
+    "features": []
+  },
+  {
+    "title": "KTM Drip",
+    "album": "The Party Never Ends",
+    "trackNumber": 6,
+    "duration": "4:00",
+    "features": []
+  },
+  {
+    "title": "Love Letter",
+    "album": "The Party Never Ends",
+    "trackNumber": 7,
+    "duration": "2:39",
+    "features": []
+  },
+  {
+    "title": "Condone It",
+    "album": "The Party Never Ends",
+    "trackNumber": 8,
+    "duration": "3:00",
+    "features": []
+  },
+  {
+    "title": "Goodbye",
+    "album": "The Party Never Ends",
+    "trackNumber": 9,
+    "duration": "2:41",
+    "features": ["The Kid LAROI"]
+  },
+  {
+    "title": "Party By Myself",
+    "album": "The Party Never Ends",
+    "trackNumber": 10,
+    "duration": "3:18",
+    "features": []
+  },
+  {
+    "title": "Adore You",
+    "album": "The Party Never Ends",
+    "trackNumber": 11,
+    "duration": "2:47",
+    "features": []
+  },
+  {
+    "title": "Celebrate",
+    "album": "The Party Never Ends",
+    "trackNumber": 12,
+    "duration": "3:00",
+    "features": ["Offset"]
+  },
+  {
+    "title": "Jeffrey",
+    "album": "The Party Never Ends",
+    "trackNumber": 13,
+    "duration": "2:55",
+    "features": []
+  },
+  {
+    "title": "Barbarian",
+    "album": "The Party Never Ends",
+    "trackNumber": 14,
+    "duration": "2:30",
+    "features": []
+  },
+  {
+    "title": "Best Friend",
+    "album": "The Party Never Ends",
+    "trackNumber": 15,
+    "duration": "2:36",
+    "features": ["Fall Out Boy"]
+  },
+  {
+    "title": "Floor It",
+    "album": "The Party Never Ends",
+    "trackNumber": 16,
+    "duration": "3:12",
+    "features": []
+  },
+  {
+    "title": "Oxycodone",
+    "album": "The Party Never Ends",
+    "trackNumber": 17,
+    "duration": "2:40",
+    "features": []
+  },
+  {
+    "title": "Spend It",
+    "album": "The Party Never Ends",
+    "trackNumber": 18,
+    "duration": "3:00",
+    "features": []
+  },
+  {
+    "title": "Legends",
+    "album": "Too Soon..",
+    "trackNumber": 1,
+    "duration": "3:11",
+    "features": []
+  },
+  {
+    "title": "Rich and Blind",
+    "album": "Too Soon..",
+    "trackNumber": 2,
+    "duration": "3:48",
+    "features": []
+  },
+  {
+    "title": "Jet Lag",
+    "album": "WRLD on Drugs",
+    "trackNumber": 1,
+    "duration": "4:31",
+    "features": ["Young Scooter"]
+  },
+  {
+    "title": "Astronauts",
+    "album": "WRLD on Drugs",
+    "trackNumber": 2,
+    "duration": "2:49",
+    "features": []
+  },
+  {
+    "title": "Fine China",
+    "album": "WRLD on Drugs",
+    "trackNumber": 3,
+    "duration": "2:21",
+    "features": []
+  },
+  {
+    "title": "Red Bentley",
+    "album": "WRLD on Drugs",
+    "trackNumber": 4,
+    "duration": "3:27",
+    "features": ["Young Thug"]
+  },
+  {
+    "title": "Make It Back",
+    "album": "WRLD on Drugs",
+    "trackNumber": 5,
+    "duration": "1:42",
+    "features": []
+  },
+  {
+    "title": "Oxy",
+    "album": "WRLD on Drugs",
+    "trackNumber": 6,
+    "duration": "3:00",
+    "features": ["Lil Wayne"]
+  },
+  {
+    "title": "7AM Freestyle",
+    "album": "WRLD on Drugs",
+    "trackNumber": 7,
+    "duration": "3:12",
+    "features": []
+  },
+  {
+    "title": "Different",
+    "album": "WRLD on Drugs",
+    "trackNumber": 8,
+    "duration": "2:31",
+    "features": ["Yung Bans"]
+  },
+  {
+    "title": "Shorty",
+    "album": "WRLD on Drugs",
+    "trackNumber": 9,
+    "duration": "2:01",
+    "features": []
+  },
+  {
+    "title": "Realer N Realer",
+    "album": "WRLD on Drugs",
+    "trackNumber": 10,
+    "duration": "2:50",
+    "features": []
+  },
+  {
+    "title": "No Issue",
+    "album": "WRLD on Drugs",
+    "trackNumber": 11,
+    "duration": "3:04",
+    "features": []
+  },
+  {
+    "title": "WRLD On Drugs",
+    "album": "WRLD on Drugs",
+    "trackNumber": 12,
+    "duration": "3:37",
+    "features": []
+  },
+  {
+    "title": "Afterlife",
+    "album": "WRLD on Drugs",
+    "trackNumber": 13,
+    "duration": "3:34",
+    "features": []
+  },
+  {
+    "title": "Ain't Livin' Right",
+    "album": "WRLD on Drugs",
+    "trackNumber": 14,
+    "duration": "3:50",
+    "features": ["Gunna"]
+  },
+  {
+    "title": "Transformer",
+    "album": "WRLD on Drugs",
+    "trackNumber": 15,
+    "duration": "3:16",
+    "features": ["Nicki Minaj"]
+  },
+  {
+    "title": "Hard Work Pays Off",
+    "album": "WRLD on Drugs",
+    "trackNumber": 16,
+    "duration": "3:44",
+    "features": []
+  },
+  {
+    "title": "Roses",
+    "album": "Single",
+    "trackNumber": null,
+    "duration": "3:43",
+    "features": ["Brendon Urie"]
+  },
+  {
+    "title": "Graduation",
+    "album": "Single",
+    "trackNumber": null,
+    "duration": "2:57",
+    "features": ["Benny Blanco"]
+  },
+  {
+    "title": "Armed and Dangerous",
+    "album": "Single",
+    "trackNumber": null,
+    "duration": "2:49",
+    "features": []
+  },
+  {
+    "title": "Smile",
+    "album": "Single",
+    "trackNumber": null,
+    "duration": "3:16",
+    "features": ["The Weeknd"]
+  },
+  {
+    "title": "Reminds Me of You",
+    "album": "Single",
+    "trackNumber": null,
+    "duration": "2:38",
+    "features": ["The Kid LAROI"]
+  },
+  {
+    "title": "Godzilla",
+    "album": "Feature",
+    "trackNumber": null,
+    "duration": "3:30",
+    "features": ["Eminem"]
+  }
+]
